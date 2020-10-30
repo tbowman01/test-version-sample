@@ -1,15 +1,23 @@
 {
   "name": "test-version-sample",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "semantic-release": "^17.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbowman01/test-version-sample.git"
+  },
+  "devDependencies": {
     "semantic-release": "^17.2.2"
   }
 }
