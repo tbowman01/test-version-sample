@@ -9,10 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "semantic-release": "^17.2.2"
+  "license": "ISC"
   },
+
   "repository": {
     "type": "git",
     "url": "https://github.com/tbowman01/test-version-sample.git"
