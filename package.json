@@ -18,6 +18,6 @@
     "url": "https://github.com/tbowman01/test-version-sample.git"
   },
   "devDependencies": {
-    "semantic-release": "^17.2.2"
+    "semantic-release": "17.2.2"
   }
 }
