@@ -1,6 +1,6 @@
 {
   "name": "test-version-sample",
-  "version": "0.0.0-development",
+  "version": "0.0.0-development.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/tbowman01/test-version-sample.git"
